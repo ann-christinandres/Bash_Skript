@@ -3,4 +3,4 @@ Hier sind meine Bash-Skripte
 
 2022-09-12
 
-- Autorin: **Ann-Christin Andres**
+- **Autorin**: **Ann-Christin Andres**
